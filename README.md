@@ -53,6 +53,8 @@ To get accurate transaction values your block chain must be reindexed (or built 
 
 You might need to tune the rpc requests a little bit. Depending on the source of the coin. Not all coins have the same rpc outputs unfortunately. You can change/lookup the rpc calls and outputs in /inc/base.php . Its best to leave /config/easybitcoin.php as it is. Don't forget to change /inc/blocks.php with your new/updated rpc calls.
 
+Change the coinmarketcap ticker in /inc/header.php - line 16
+
 Donations
 ---------
 
