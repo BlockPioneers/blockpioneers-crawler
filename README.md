@@ -1,7 +1,7 @@
 RPC Ace - Blockpioneers - BanzaiBTC Version
 ==============================
 
-Copyright (c) 2014 - 2016 Robin Leffmann (Original RPC Ace Developer)
+Copyright (c) 2014 - 2016 Robin Leffmann (Original RPC Ace Developer) - https://github.com/stolendata/rpc-ace 
 
 Copyright (c) 2015 - 2016 Blockpioneers.info - Bitcointalk: BanzaiBTC (Tuned up RPC Ace)
 
