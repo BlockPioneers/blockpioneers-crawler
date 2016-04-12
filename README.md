@@ -60,7 +60,7 @@ Donations
 
 BTC: 1Y7JNwVRvNmEPra8ctDCsdjk8oSgNEAMs
 
-CHIP: CUWdoktH4Gc1eisbfKriRH1Fbx6XpECnH3
+CHIP: Cd8P1dwMHsshXHspV74Dch2H7b45HweMi6
 
 
 License
